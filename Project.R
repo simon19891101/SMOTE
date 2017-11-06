@@ -1,6 +1,5 @@
 #Tutorial
 #https://www.analyticsvidhya.com/blog/2016/03/practical-guide-deal-imbalanced-classification-problems/
-#https://www.analyticsvidhya.com/blog/2016/09/this-machine-learning-project-on-imbalanced-data-can-add-value-to-your-resume/
 
 #imbalanced data is the data with one class (dependent variable) outperforms others
 #as a result, ML algorithms will fail to catch the pattern for the minority class due to not-enough data
