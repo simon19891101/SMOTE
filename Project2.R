@@ -1,7 +1,3 @@
-#Tutorial
-#https://www.analyticsvidhya.com/blog/2016/09/this-machine-learning-project-on-imbalanced-data-can-add-value-to-your-resume/
-
-
 #a very new ML package
 library(mlr)
 library(magrittr)
